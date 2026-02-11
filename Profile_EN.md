@@ -11,9 +11,9 @@
 
 ## Summary
 
-I'm a computer engineer with over 12 years of experience in technology. I started my career in electronics (firmware) and Java backend development. Throughout my career, I've always had to manage systems and infrastructure, which led me to quickly become a Team Leader and Product Owner. 
+I'm a computer engineer with over 12 years of experience in technology. I started my career in electronics (firmware) and Java backend development. Throughout my career, I've always had to manage systems and infrastructure, which led me to quickly become a Team Leader and Product Owner.
 
-Recently, the DevOps initiative caught my attention—not because it seems nice, but because I've seen too many times the same problems related to software management. I decided to deeply study what DevOps is and how to work with it. 
+Recently, the DevOps initiative caught my attention—not because it seems nice, but because I've seen too many times the same problems related to software management. I decided to deeply study what DevOps is and how to work with it.
 
 For the last two years, I've been working with:
 - Containers & Kubernetes
