@@ -4,7 +4,6 @@ This repository contains the curriculum vitae (CV) of Luiz Abrantes in multiple 
 
 ## Files
 
-- **Profile.md** - Original CV file (English)
 - **Profile_EN.md** - English version (formatted and spell-checked)
 - **Profile_PT.md** - Portuguese version (Versão em Português)
 
